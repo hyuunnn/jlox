@@ -35,7 +35,7 @@ class Scanner {
         keywords.put("var", VAR);
         keywords.put("while", WHILE);
     }
-    
+
     Scanner(String source) {
         this.source = source;
     }
